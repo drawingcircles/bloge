@@ -203,5 +203,5 @@ SESSION_COOKIE_SECURE = True
 CSRF_COOKIE_SECURE = True
 SECURE_SSL_REDIRECT = True
 
-if os.getcwd() == '/app':
-    DEBUG = False
+""" if os.getcwd() == '/app':
+    DEBUG = False """
